@@ -27,7 +27,7 @@ class _MyAppState extends State<MyApp> {
             children: [
               Center(
                   child: Text(
-                'Lottery winning number is $x',
+                'Lottery winning number is 4',
                 textAlign: TextAlign.center,
                 style: TextStyle(fontSize: 27, fontWeight: FontWeight.w600),
               )),
